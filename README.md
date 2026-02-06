@@ -20,3 +20,5 @@ Docker-compose.yml: The created image's deployment
 * front-end static web resources
 * requested server name => IP address; location refers to the back-end requested object
 <img width="1606" height="799" alt="image" src="https://github.com/user-attachments/assets/e8eaefbc-4b0e-4de6-a80e-e50382330054" />
+<img width="1637" height="769" alt="image" src="https://github.com/user-attachments/assets/bc9b4ed8-0204-4296-9763-24ca80ec4e88" />
+
